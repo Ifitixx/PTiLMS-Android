@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">P-learner</string>
+    <string name="home">Home</string>
+    <string name="settings">settings</string>
+    <string name="profile">profile</string>
+    <string name="courses">courses</string>
+    <string name="select_department">Select Department</string>
+    <string name="back">back</string>
+    <string name="error_loading_departments">error loading departments</string>
+    <string name="department_icon">department icon</string>
+    <string name="select_level">Select Level</string>
+    <string name="error_loading_levels">error loading levels</string>
+    <string name="level_icon">level icon</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="retry">Retry</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="default_screen">Default Screen</string>
+    <string name="unknown_error">unknown error</string>
+    <string name="communication">communication</string>
+</resources>

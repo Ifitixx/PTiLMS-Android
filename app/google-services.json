@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "237191217065",
+    "project_id": "my-project-work-846f2",
+    "storage_bucket": "my-project-work-846f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237191217065:android:b09b220f894d5cf6c0ceb8",
+        "android_client_info": {
+          "package_name": "com.pizzy.ptilms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4iQGFgNLjebC_Q3I5y4Gt07jrIxKp6ok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
